@@ -1,0 +1,11 @@
+p {
+    color: silver;
+}
+
+h1, h3 {
+    background-color: rgb(198, 203, 207);
+}
+
+h1+h3 {
+    color:rgb(155, 151, 155);
+}
